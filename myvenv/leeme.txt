@@ -1,0 +1,3 @@
+Este directorio myvenv es donde le corresponde ir al entorno virtual. 
+Mejor lo creamos en el lugar donde vayamos a dejar colocadomelproyecto.
+Por lo tanto está vacío.
