@@ -7,3 +7,4 @@ Funcionará como una declaración de intenciones y una guía para comenzar el pr
 (Notese que los comentarios de varias lineas en Python se generan con 3 veces las " al principio y al final del mismo)
 
 """
+HELLO KITTY 
